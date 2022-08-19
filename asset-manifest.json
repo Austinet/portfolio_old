@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6485448d.css",
+    "main.js": "/portfolio/static/js/main.81f64b84.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/gym2fit.JPG": "/portfolio/static/media/gym2fit.29724d7407de29f87492.JPG",
+    "static/media/Austinet.jpg": "/portfolio/static/media/Austinet.17e850da62e5c9ddcce0.jpg",
+    "static/media/coding.jpeg": "/portfolio/static/media/coding.6295a38b89d6b60645c3.jpeg",
+    "static/media/huddle.JPG": "/portfolio/static/media/huddle.e5674dac25117f462113.JPG",
+    "static/media/clipboard.JPG": "/portfolio/static/media/clipboard.54bb3965f9be691c5116.JPG",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.9eec1acc2d38ca0dbaed.jpg",
+    "static/media/fylo.JPG": "/portfolio/static/media/fylo.62d905cd51d4917d66e0.JPG",
+    "static/media/react.svg": "/portfolio/static/media/react.149c916e376207f6f5b69e07bb3eb438.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.6779f2f4ffa6a32bc9d8072fc58374ba.svg",
+    "static/media/js.svg": "/portfolio/static/media/js.22adffa7d416d0946d6d35dd3ce9e32a.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/pen-fancy.svg": "/portfolio/static/media/pen-fancy.5fcdbeca9ae4f419410afc9dc0d2819f.svg",
+    "static/media/html5.svg": "/portfolio/static/media/html5.a3d9e36ab7a2a194c5e4384082e74462.svg",
+    "static/media/css3.svg": "/portfolio/static/media/css3.53be700a94496bbaf56b37c3d86417a4.svg",
+    "main.6485448d.css.map": "/portfolio/static/css/main.6485448d.css.map",
+    "main.81f64b84.js.map": "/portfolio/static/js/main.81f64b84.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6485448d.css",
+    "static/js/main.81f64b84.js"
+  ]
+}
