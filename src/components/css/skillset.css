@@ -6,6 +6,8 @@
 .skillset {
     padding: 3rem 1rem;
     text-align: center;
+    max-width: 1200px;
+    margin: auto;
 }
 
 .svg {
