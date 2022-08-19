@@ -1,0 +1,18 @@
+ 
+ /* footer section */
+  .footer {
+    text-align: center;
+    padding: 8px;
+    background: var(--colorf);
+    color: var(--colora);
+    border-top: 2px solid var(--colord);
+}
+
+.socials {
+    margin-top: 2.5rem;
+}
+
+.footer p {
+    font-size: 0.8rem;
+    margin: 10px 0;
+}

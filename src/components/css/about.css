@@ -1,0 +1,23 @@
+
+.about-container {
+    background-color: #3598dc;
+    padding: 3rem 0.8rem;
+    color: #fff;
+}
+
+.about-me {
+    max-width: 650px;
+    margin: auto;
+    text-align: center;
+}
+
+.about-image img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    transition: all 0.4s ease-in-out;
+}
+.about-image img:hover {
+    transform: scale(1.15);
+}

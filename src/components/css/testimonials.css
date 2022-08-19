@@ -1,0 +1,26 @@
+/* Testimonials */
+#testimonials {
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.testimonials {
+    display: flex;
+    max-width: 1000px;
+    margin: 1.5rem auto;
+    /* justify-content: space-between; */
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.testimony {
+   flex-basis: 330px;
+   margin-bottom: 1rem;
+   padding: 1rem;
+}
+
+.testimony img {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
