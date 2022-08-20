@@ -18,7 +18,7 @@ const Portfolio = () => {
                   Access them wherever you need, share and collaborate with
                   friends, family, and co-workers
                 </p>
-                <a href="https://https://austinet.github.io/fylo-dark-theme-landing-page-created-by-austinet">View Site</a>
+                <a href="https://austinet.github.io/fylo-dark-theme-landing-page-created-by-austinet">View Site</a>
             </div>
             <div className="project-item">
                 <img src={gym2fit} alt="gym2fit website" />
@@ -26,7 +26,7 @@ const Portfolio = () => {
                 <p>
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non earum repellat magni nemo, magnam alias maiores sequi ex atque quaerat adipisci nisi quibusdam, veritatis mollitia modi reiciendis ipsam, saepe natus.
                 </p>
-                <a href="https://https://austinet.github.io/gym2fit/">View Site</a>
+                <a href="https://austinet.github.io/gym2fit/">View Site</a>
             </div>
             <div className="project-item">
                 <img src={huddle} alt="huddle website" />
@@ -34,7 +34,7 @@ const Portfolio = () => {
                 <p>
                    Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.
                 </p>
-                <a href="https://https://austinet.github.io/huddle-landing-page/">View Site</a>
+                <a href="https://austinet.github.io/huddle-landing-page/">View Site</a>
             </div>
             <div className="project-item">
                 <img src={clipboard} alt="clipboard website" />
@@ -42,7 +42,7 @@ const Portfolio = () => {
                 <p>
                    Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices. Clipboard instantly stores any item you copy in the cloud, meaning you can access your snippets immediately on all your devices. 
                 </p>
-                <a href="https://https://austinet.github.io/clipboard-landing-page/">View Site</a>
+                <a href="https://austinet.github.io/clipboard-landing-page/">View Site</a>
             </div>
         </div>
     </section>

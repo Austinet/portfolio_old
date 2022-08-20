@@ -17,7 +17,7 @@ const EducationWorkExperience = () => {
          <h3>WORK EXPERIENCE</h3>
          <ul>
              <li>Frontend Web Developer(Intern), Side Hustle Internship (August, 2022 - present)</li>
-             <li>Frontend Web Developer(Intern),HNG Internship (August, 2022 - September, 2022)</li>
+             {/* <li>Frontend Web Developer(Intern),HNG Internship (August, 2021 - September, 2021)</li> */}
              <li>Frontend Web Developer(Intern), Kodecamp Internship (March, 2022 - July, 2022)</li>
              <li>Frontend Web Developer(Intern), Side Hustle Internship (June - August, 2021)</li>
              <li>Student Industrial Work Experience Scheme(SIWES - Intern), Fonglo IT Place (April - September, 2021) </li>
